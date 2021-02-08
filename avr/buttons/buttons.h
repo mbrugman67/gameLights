@@ -7,11 +7,9 @@
  *  BUTTON_DOWN - button has been pressed
  *  BUTTON_HELD - button has been held down
  * 
- * There are four buttons:
- *  Menu
- *  Up Arrow
- *  Down Arrow
- *  Enter
+ * There are two buttons:
+ *  Marquee
+ *  Cabinet
  * 
  * This class handles those things, plus debounce 
  * for the "down" state
